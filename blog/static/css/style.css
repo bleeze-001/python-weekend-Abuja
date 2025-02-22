@@ -1,0 +1,19 @@
+p{
+    color: red;
+}
+
+.publish{
+    color:green;
+    font-size: 30px;
+} 
+header{
+    height:150px;
+    background-color: brown;
+    text-align: center;
+}
+.top{
+    
+    color: rgba(107, 221, 174, 0.959);
+    text-align: center;
+    text-decoration: none;
+}
